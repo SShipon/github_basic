@@ -36,17 +36,7 @@
     text-align: justify;
 }
 
-.todo-card .text______content #btn-hero-2{
-    background-color: #7a0707;
-    color:#fff;
-    padding: 15px 30px;
-    outline: none;
-    border: none;
-   
-    border-top-right-radius: 30px;
-    border-bottom-left-radius:20px ;
 
-}
 .todo-card .text______content .btn-hero {
     background-color: #000;
     color:#fff;
@@ -56,5 +46,10 @@
    
     border-top-right-radius: 30px;
     border-bottom-left-radius:20px ;
+     
+}
+.todo-card .text______content .btn-hero:hover {
+    background-color: #a1036f;
+    transition: all 2s;
      
 }
