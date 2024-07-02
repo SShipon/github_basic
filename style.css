@@ -56,6 +56,15 @@
     border-bottom-left-radius:20px ;
      
 }
+.btn-hero-3{
+    background-color: #06423b;
+    color:white;
+    padding: 15px 30px;
+    outline: none;
+    border: none;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius:20px ;
+}
 .todo-card .text______content .btn-hero:hover {
     background-color: #a1036f;
     transition: all 2s;
